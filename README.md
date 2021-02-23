@@ -9,7 +9,7 @@ A stack-based esoteric programming language. See wiki page [here](https://esolan
 | c         | Subtracts the 2nd item on the stack from the 1st item and pushes the result to the stack                                    |
 | d         | Decrements the 1st item of the stack by 1                                                                                   |
 | e         | Pushes the 1st item mod the 2nd item onto the stack                                                                         |
-| f         | Prints the 1st item on the stack as an [[ASCII]] character                                                                  |
+| f         | Prints the 1st item on the stack as an ASCII character                                                                      |
 | g         | Adds the first 2 stack items together and pushes the result to the stack                                                    |
 | h         | Gets input from the user as a number and pushes to the stack                                                                |
 | i         | Increments the 1st item of the stack by 1                                                                                   |
